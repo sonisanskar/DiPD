@@ -9,6 +9,9 @@ The data is extracted from from Twitter . The dataset consists of instances whic
 
 The tweets have following attributes- created_at,retweet_count,followers_count,location , username, statuses_count, label
 
-The dataset can be retrieved from the links given below. Kindly cite us(hyperlink)  if you use this dataset.
+The dataset can be retrieved from the links given below. Kindly cite us if you use this dataset.
 
 Github link | Drive link  
+
+
+You can cite using-
