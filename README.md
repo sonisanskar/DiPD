@@ -1,2 +1,14 @@
 # DiPD
 Riots and protests, if gone out of control, can cause havoc in a country. We have seen examples of this, suchas the BLM movement, climate strikes, etc., which caused worldwide disruption. Our motive behind creatingthis dataset was to use it to develop machine learning systems that can give its users insight into the trendingevents going on and alert them about the events that could lead to disruption in the nation. If any event startsgoing out of control, it can be handled and mitigated by monitoring these events before the matter escalates.This dataset collects tweets of past or ongoing events known to have caused disruption and labels these tweetsas 1.
+
+### Motivation:
+Machine Learning researchers can benefit from this dataset, while Governmental and Securityagencies can also benefit from the machine learning models resulting from this dataset.Government organizations can use this on future tweets to keep track of events and mitigatethem before they become violent
+
+### Description:
+The data is extracted from from Twitter . The dataset consists of instances which are categorised into event and non-event category. The file contains 4 csv files two of which are unprocessed tweets from event and non-event category and the other two are preprocessed tweets from the same two categories
+
+The tweets have following attributes- created_at,retweet_count,followers_count,location , username, statuses_count, label
+
+The dataset can be retrieved from the links given below. Kindly cite us(hyperlink)  if you use this dataset.
+
+Github link | Drive link  
